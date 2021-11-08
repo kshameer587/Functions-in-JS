@@ -1,0 +1,21 @@
+
+
+    // function add()
+    // {
+    //     var num1 = +prompt("enter your number");
+    //     var num2 = +prompt("enter your number");
+    //     var result = num1+num2;
+    //     alert(result);
+    // }
+
+    // function add(i,sum)
+    // {
+    //     while(i<=10)
+    //     {
+    //         sum=sum+i;
+    //         i=i+1;
+    //     }
+    //     window.alert(sum);
+    // }
+
+    
