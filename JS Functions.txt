@@ -1,5 +1,7 @@
 
 
+							NON-PARAMETERIZED FUNCTIONS
+
     // function add()
     // {
     //     var num1 = +prompt("enter your number");
@@ -7,6 +9,10 @@
     //     var result = num1+num2;
     //     alert(result);
     // }
+
+
+							PARAMETERIZED FUNCTIONS
+
 
     // function add(i,sum)
     // {
@@ -19,3 +25,20 @@
     // }
 
     
+							SUM OF FIRST TEN DIGITS
+
+<body>
+<button onclick="call()">addition</button>
+<script>
+function call()
+{
+    var i = 1;
+    var sum = 0;
+    for (i;i<=10;i++)
+    {
+        sum = sum+i;
+    }
+    alert(sum);
+}
+</script>
+</body>
